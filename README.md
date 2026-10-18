@@ -76,7 +76,7 @@ dsh plugin --profile web add github:mengyundawang123/dsh-quoted#v0.1.0
 
 ```
 node tests/host.test.mjs     # 16 项：不变量 + 300 步模型随机游走 + 清扫/重启/HTTP 面
-node tests/client.test.mjs   # 27 项：选区范围、去重、输入法、chip 载荷、角标、失败码
+node tests/client.test.mjs   # 28 项：选区范围、去重、输入法、chip 载荷、角标、失败码
 npm test                     # 串跑
 ```
 
