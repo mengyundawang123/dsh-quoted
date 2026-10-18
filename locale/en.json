@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Annotation Capture",
+    "description": "Select a passage in the conversation and attach it to the composer as a separate quoted block, from the right-click menu or the composer button; the file is removed once the turn reads it."
+  }
+}
